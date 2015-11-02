@@ -1,0 +1,20 @@
+{
+  "name": "port-available",
+  "version": "0.1.0",
+  "description": "Check localhost port availability",
+  "readme": "Check localhost port availability",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | tap-min"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": "jeromedecoster/port-available",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tap-min": "^1.0.0",
+    "tape": "^4.2.2"
+  }
+}
