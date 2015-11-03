@@ -15,7 +15,7 @@ Install from a <a href="https://docs.npmjs.com/files/package.json#github-urls" t
 ```json
 {
   "dependencies": {
-    "find": "jeromedecoster/port-available"
+    "port-available": "jeromedecoster/port-available"
   }
 }
 ```
@@ -38,3 +38,7 @@ Promise.resolve(port(3000))
 ## Thanks
 
 Coding tips from <a href="https://github.com/sindresorhus/get-port" target="_blank">get-port</a>
+
+## License
+
+MIT
